@@ -2,4 +2,4 @@
 
 > npm install tailwindcss postcss-cli autoprefixer
 
-> npx tailwind init tailwind.js
+> npx tailwindcss init
